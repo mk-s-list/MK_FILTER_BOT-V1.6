@@ -1,9 +1,10 @@
-## 🔔 New Version Released – V1.4
+## 🔔 New Version Released – V1.6
 
 - ✅ Spell Check Toggle (Group Only)
 - ✅ Group Owners Can Manage Settings via Bot PM
 - ✅ Reset All Group Settings (Owner Only)
 - ✅ 3 Verification System
+- ✅ ANYONE CAN EARNE MONEY (INBUILT TUTORIAL) 
 
 ---
 
@@ -82,4 +83,4 @@ restart             – Restart the bot
 
 ---
 
-<p align="center"><b>Jai Shree Krishna 🙏😉</b></p>
+<p align="center"><b>𝙈𝘼𝙃𝙄𝘽𝘼𝙇𝘼𝙉𝙋𝘼𝙏𝙏𝙄 𝙋𝘼𝙔𝘼𝙇𝙐𝙂𝘼 𝘿𝘼 🩵</b></p>
